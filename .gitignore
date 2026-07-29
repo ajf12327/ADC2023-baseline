@@ -1,0 +1,15 @@
+# Ariel challenge datasets
+/FullDataset/
+/TestData/
+
+# Downloaded archives
+/*.zip
+
+# macOS archive metadata
+**/__MACOSX/
+**/.DS_Store
+
+# Generated project artefacts
+/artifacts/
+/outputs/
+/checkpoints/
